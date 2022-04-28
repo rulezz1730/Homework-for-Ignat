@@ -1,0 +1,44 @@
+.message {
+  display: flex;
+  overflow: hidden;
+  max-width: 350px;
+  border: 2px solid #ceede0;
+  border-radius: 10px;
+  background: #e1ebe7;
+
+  img {
+    border-radius: 50%;
+    border: 1px solid #fafafa;
+    margin: 10px 10px;
+    //padding-top: 15px;
+  }
+
+  span {
+    font-size: 14px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+  }
+}
+
+.messageText {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  position: relative;
+  width: 80%;
+
+  p {
+    margin: 0 0 20px 0;
+    font-size: 14px;
+    word-break: break-all;
+  }
+
+  .messageTime {
+    position: absolute;
+    bottom: -5px;
+    right: 5px;
+    font-size: 10px !important;
+  }
+}
+
+
