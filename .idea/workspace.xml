@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="518dd411-4ecb-4e8b-a467-757f8847e13c" name="Changes" comment="" />
+    <list default="true" id="518dd411-4ecb-4e8b-a467-757f8847e13c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/Affairs.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h2/Affair.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/Affair.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h2/Affairs.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h2/Affairs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/Affairs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h2/HW2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/HW2.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Jest.filterAffairs.test.tsx">
     <configuration name="App.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -49,8 +58,41 @@
       <test-file value="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.test.tsx" />
       <method v="2" />
     </configuration>
+    <configuration name="Message.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/p2-homeworks/h1/tests/Message.test.tsx" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deleteAffair.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/p2-homeworks/h2/tests/deleteAffair.test.tsx" />
+      <method v="2" />
+    </configuration>
+    <configuration name="filterAffairs.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/p2-homeworks/h2/tests/filterAffairs.test.tsx" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.filterAffairs.test.tsx" />
+        <item itemvalue="Jest.deleteAffair.test.tsx" />
+        <item itemvalue="Jest.Message.test.tsx" />
         <item itemvalue="Jest.App.test.tsx" />
       </list>
     </recent_temporary>
@@ -66,11 +108,24 @@
       <workItem from="1650998039990" duration="468000" />
       <workItem from="1650998509412" duration="5660000" />
       <workItem from="1651052521190" duration="2736000" />
-      <workItem from="1651161470312" duration="446000" />
+      <workItem from="1651161470312" duration="1196000" />
+      <workItem from="1651673289154" duration="4760000" />
+      <workItem from="1651679769553" duration="2166000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
