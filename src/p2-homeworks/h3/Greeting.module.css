@@ -2,6 +2,46 @@
 
 }
 
-.error {
-    border: 1px solid red;
+.inputStatus {
+    width: 250px;
+    padding: 10px;
+    margin: 20px 20px 20px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    color: black;
 }
+
+.during {
+    border: 2px solid #81c99f;
+}
+
+.error {
+    color: #f26d78;
+    border: 2px solid #f26d78;
+}
+
+span {
+    color: #8ccbe6;
+    font-size: 20px;
+}
+
+button {
+    width: 100px;
+    margin-right: 20px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+
+.errorMessage {
+    margin-left: 10px;
+    font-size: 16px;
+    color: #f26d78;;
+
+}
+
+

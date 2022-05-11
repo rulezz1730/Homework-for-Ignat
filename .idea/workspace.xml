@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="518dd411-4ecb-4e8b-a467-757f8847e13c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/Affairs.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h2/Affair.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/Affair.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h2/Affairs.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h2/Affairs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/Affairs.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h2/HW2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h2/HW2.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h3/Greeting.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h3/Greeting.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h3/Greeting.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h3/Greeting.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h3/GreetingContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h3/GreetingContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h3/HW3.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h3/HW3.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +112,9 @@
       <workItem from="1651052521190" duration="2736000" />
       <workItem from="1651161470312" duration="1196000" />
       <workItem from="1651673289154" duration="4760000" />
-      <workItem from="1651679769553" duration="2166000" />
+      <workItem from="1651679769553" duration="3667000" />
+      <workItem from="1651755533156" duration="781000" />
+      <workItem from="1652293595865" duration="6836000" />
     </task>
     <servers />
   </component>
