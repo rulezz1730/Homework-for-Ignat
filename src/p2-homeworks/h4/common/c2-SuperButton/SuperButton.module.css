@@ -3,5 +3,19 @@
 }
 
 .red {
-    background: red;
+    color: #f26d78;
+    border: 2px solid #f26d78;
+    margin: 5px;
 }
+
+.during {
+    border: 2px solid #81c99f;
+    margin: 5px;
+}
+
+.disabled {
+    border: 2px solid #844bff;
+    background: #b898ea;
+    margin: 5px;
+}
+

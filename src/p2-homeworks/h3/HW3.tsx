@@ -16,11 +16,6 @@ function HW3() {
         setUsers(prevState => prevState.concat({_id: uuidV1(), name: name}))
     }
 
-
-    useEffect(() => {
-        console.log(users)
-    }, [users])
-
     return (
         <div>
             <hr/>
