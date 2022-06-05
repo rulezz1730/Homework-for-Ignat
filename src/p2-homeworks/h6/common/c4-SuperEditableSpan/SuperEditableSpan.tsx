@@ -66,7 +66,6 @@ const SuperEditableSpan: React.FC<SuperEditableSpanType> = (
 
                         {...restSpanProps}
                     >
-                        {/*<img src="../../../../image/pencil.png" alt="Pencil"/>*/}
                         <img src="https://svgsilh.com/svg/24173.svg" width={15} height={15}
                              style={{paddingLeft: "10px"}} alt="Pencil"/>
 
