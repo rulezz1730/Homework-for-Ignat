@@ -1,0 +1,20 @@
+.peopleBlock {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 0 auto;
+
+  .peopleItem {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+
+  .buttonBlock {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+
+
