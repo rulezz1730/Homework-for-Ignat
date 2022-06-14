@@ -11,11 +11,14 @@
 .during {
     border: 2px solid #81c99f;
     margin: 5px;
+    cursor: pointer;
 }
 
 .disabled {
     border: 2px solid #844bff;
     background: #b898ea;
     margin: 5px;
+    cursor: pointer;
+
 }
 
