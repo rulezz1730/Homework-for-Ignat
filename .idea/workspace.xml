@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="518dd411-4ecb-4e8b-a467-757f8847e13c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h9/HW9.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c2-SuperButton/SuperButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h4/common/c2-SuperButton/SuperButton.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h10/HW10.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/HW10.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/loadingReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/loadingReducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/store.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/pages/PreJunior.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/pages/PreJunior.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/homeWorkReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/homeWorkReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h9/Clock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h9/Clock.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +154,8 @@
       <workItem from="1654273000836" duration="2517000" />
       <workItem from="1654340993990" duration="5713000" />
       <workItem from="1654888484741" duration="5270000" />
-      <workItem from="1655212835882" duration="5206000" />
+      <workItem from="1655212835882" duration="5753000" />
+      <workItem from="1655894739268" duration="8542000" />
     </task>
     <servers />
   </component>
