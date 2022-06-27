@@ -1,13 +1,22 @@
-import React, {useState} from 'react'
+import React, {useCallback, useState} from 'react'
 import SuperRange from './common/c7-SuperRange/SuperRange'
 import SuperDoubleRange from './common/c8-SuperDoubleRange/SuperDoubleRange'
+import styles from './HW11.module.scss'
 
 function HW11() {
-    const [value1, setValue1] = useState(0)
+    const [value1, setValue1] = useState<number>(0)
     const [value2, setValue2] = useState(100)
 
+    const onChangeRange = useCallback((value: number) => {
+        setValue1(value)
+    }, [])
+
+    const onChangeRange2 = (value2: number) => {
+        setValue2(value2)
+    }
+
     return (
-        <div>
+        <div className={styles.hw11RangeBlock}>
             <hr/>
             homeworks 11
 
@@ -15,6 +24,8 @@ function HW11() {
             <div>
                 <span>{value1}</span>
                 <SuperRange
+                    onChangeRange={onChangeRange}
+                    value={value1}
                     // сделать так чтоб value1 изменялось
                 />
             </div>
@@ -22,6 +33,9 @@ function HW11() {
             <div>
                 <span>{value1}</span>
                 <SuperDoubleRange
+                    onChangeRange={onChangeRange}
+                    onChangeRange2={onChangeRange2}
+                    multiValue={[value1, value2]}
                     // сделать так чтоб value1 и value2 изменялось
                 />
                 <span>{value2}</span>
