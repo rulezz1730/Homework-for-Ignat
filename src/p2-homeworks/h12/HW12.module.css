@@ -21,3 +21,19 @@
 .some-text {
     color: darkslateblue;
 }
+
+.light {
+    background: #e1ebe7;
+}
+
+.light-text {
+    color: #343434;
+}
+
+.deep {
+    background: cadetblue;
+}
+
+.deep-text {
+    color: darkslategray;
+}

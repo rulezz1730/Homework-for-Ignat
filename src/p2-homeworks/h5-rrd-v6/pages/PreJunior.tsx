@@ -11,6 +11,7 @@ import HW10 from "../../h10/HW10";
 import {Provider} from "react-redux";
 import store from "../../h10/bll/store";
 import HW11 from "../../h11/HW11";
+import HW12 from "../../h12/HW12";
 
 function PreJunior() {
     return (
@@ -27,6 +28,7 @@ function PreJunior() {
                 <HW10/>
             </Provider>
             <HW11/>
+            <HW12/>
 
         </div>
     )
