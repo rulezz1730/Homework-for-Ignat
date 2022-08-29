@@ -3,6 +3,7 @@ import {Routes, Route, Navigate} from "react-router-dom";
 import PreJunior from "./pages/PreJunior";
 import Error404 from "./pages/Error404";
 import styles from './HW5.module.scss'
+import JuniorPlus from "../hw13/JuniorPlus";
 
 export const PATH = {
     PRE_JUNIOR: 'pre-junior',
@@ -20,7 +21,8 @@ function Pages() {
                 <Route path={'/'} element={<Navigate to={PATH.PRE_JUNIOR}/>}/>
                 <Route path={PATH.PRE_JUNIOR} element={<PreJunior/>}/>
                 <Route path={PATH.JUNIOR} element={<div className={styles.page}>Feauture Homework</div>}/>
-                <Route path={PATH.JUNIOR_PLUS} element={<div className={styles.page}>Feauture Homework</div>}/>
+                {/*<Route path={PATH.JUNIOR_PLUS} element={<div className={styles.page}>Feauture Homework</div>}/>*/}
+                <Route path={PATH.JUNIOR_PLUS} element={<JuniorPlus/>}/>
 
                 {/*// add routes*/}
 

@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="518dd411-4ecb-4e8b-a467-757f8847e13c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/hw13/HW13.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/hw13/JuniorPlus.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/hw13/request/HW13.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/hw13/request/Request.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/hw13/request/requestApi.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/store.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h12/HW12.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h12/HW12.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h12/HW12.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h12/HW12.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h12/bll/themeReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h12/bll/themeReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/HW5.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/HW5.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/pages/PreJunior.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/pages/PreJunior.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c5-SuperSelect/SuperSelect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c5-SuperSelect/SuperSelect.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/Pages.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/Pages.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
         <option value="SCSS File" />
       </list>
     </option>
@@ -59,6 +62,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/p2-homeworks/hw13/request" />
       <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
@@ -160,6 +164,9 @@
       <workItem from="1655894739268" duration="9384000" />
       <workItem from="1656315596137" duration="13691000" />
       <workItem from="1659797220621" duration="4818000" />
+      <workItem from="1659866106945" duration="643000" />
+      <workItem from="1661797414089" duration="4147000" />
+      <workItem from="1661804719794" duration="385000" />
     </task>
     <servers />
   </component>
